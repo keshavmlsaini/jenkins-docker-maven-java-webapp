@@ -40,15 +40,15 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome to LinuxWorld, India , in fully automated jenkins</h2>
-			<h3>Contact training@lwindia.com or mob 9351009002</h3>
+			<h2>Welcome  Keshav Saini, India , in fully automated jenkins</h2>
+			<h3>Contact keshavmlsaini@gmail.com or mob 9351009002</h3>
 		</div>	
 	</div>
 
 
 	<hr>
 	<footer>
-		<p>&copy; LW 2022</p>
+		<p>&copy; KS 2022</p>
 	</footer>
 </div>
 
